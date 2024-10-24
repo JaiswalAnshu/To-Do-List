@@ -42,6 +42,15 @@ This To-Do List is a simple, command-line Python application designed to help us
 - Integrate task persistence, allowing tasks to be saved across sessions.
 - Implement deadline tracking and reminders for tasks.
 
+📹 Disclaimer <br>
+This repository includes two additional files:
+
+  - A video walkthrough of the app's code, explaining the structure and logic behind the Python implementation.
+  - A video demonstration of the app's output, showcasing how the To-Do List works in real time.
+
+   
+Both videos are provided to offer a clearer understanding of the app's functionality and code structure, along with the other project files.
+
 
 
 
