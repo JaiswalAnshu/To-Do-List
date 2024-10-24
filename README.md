@@ -14,3 +14,13 @@ This To-Do List is a simple, command-line Python application designed to help us
 - Remove Tasks: Delete any task you no longer need on your list.
 - Exit: Quit the app easily after managing your tasks.
 
+🛠 How to Use the App <br>
+
+1. Run the program to start the task management interface.
+2. Select the desired action from the menu:
+- Add new tasks to your to-do list.
+- View current tasks.
+- Mark completed tasks.
+- Remove or update existing tasks.
+3. Keep managing your to-do list as long as you need and exit by choosing the "Quit" option.
+
